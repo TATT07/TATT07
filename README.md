@@ -54,25 +54,39 @@ Desarrollador Full Stack enfocado en la ingeniería de plataformas corporativas 
 
 ---
 
-## 📊 GITHUB METRICS // ESTADÍSTICAS DEL SISTEMA
+## 📊 GITHUB METRICS // ESTADÍSTICAS LOGÍSTICAS DEL CORE
+
+<table width="100%" border="0" cellspacing="0" cellpadding="10">
+  <tr>
+    <td width="100%" bgcolor="#0f0f1a" align="left">
+      <code><b>[SYS_STATUS]</b>: Escaneando repositorios activos...</code><br />
+      <code><b>[SYS_INFO]</b>: Despliegues de backend concurrentes validados en producción.</code><br />
+      <code><b>[CORE_LOAD]</b>: Integración de servicios mediante contenedores Docker activa.</code>
+    </td>
+  </tr>
+</table>
+
+<br />
 
 <div align="center">
   <table width="100%" border="0" cellspacing="0" cellpadding="0">
     <tr>
-      <td width="49%" valign="top">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api?username=LisandroRueda&show_icons=true&theme=tokyonight&locale=es&hide_border=false&include_all_commits=true&count_private=true" alt="Lisandro's GitHub Stats" />
+      <td width="48%" valign="top" bgcolor="#0d1117" style="border: 1px solid #30363d; border-radius: 6px; padding: 15px;">
+        <h4 align="center">📈 CORE CONTRIBUTION METRICS</h4>
+        <p align="left"><code>■ Activity Status: Operational</code></p>
+        <p align="left"><code>■ Architecture Pipeline: Clean MVC Flow</code></p>
+        <p align="left"><code>■ Framework Engine: Node.js + React Ecosystem</code></p>
+        <p align="left"><code>■ Database Cluster: MySQL Enterprise Model</code></p>
+        <p align="left"><code>■ Productivity Multiplier: AI Scripting Injection</code></p>
       </td>
-      <td width="2%"></td>
-      <td width="49%" valign="top">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LisandroRueda&layout=compact&theme=tokyonight&locale=es&hide_border=false&langs_count=6" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
-  <br />
-  <table width="100%" border="0" cellspacing="0" cellpadding="0">
-    <tr>
-      <td width="100%">
-        <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=LisandroRueda&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats" />
+      <td width="4%"></td>
+      <td width="48%" valign="top" bgcolor="#0d1117" style="border: 1px solid #30363d; border-radius: 6px; padding: 15px;">
+        <h4 align="center">📊 LIVE SUBSYSTEM ENGINE</h4>
+        <p align="left"><code>» Frontend Main Core .......... [ 85% ]</code></p>
+        <p align="left"><code>» Backend Relational Data ..... [ 90% ]</code></p>
+        <p align="left"><code>» Component Isolation ......... [ 95% ]</code></p>
+        <p align="left"><code>» Asynchronous Routines ....... [ 80% ]</code></p>
+        <p align="left"><code>» Prompt Automation Refactor .. [ 100% ]</code></p>
       </td>
     </tr>
   </table>
