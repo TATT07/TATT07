@@ -4,14 +4,14 @@
 ### 📑 ─── ❖ ── ⚙️ FULL STACK DEVELOPER ⚙️ ── ❖ ─── 📑
 
 <p align="center">
-  <a href="[https://linkedin.com](https://linkedin.com)" target="_blank">
-    <img src="[https://img.shields.io/badge/Enterprise_Software_Architect-007ACC?style=for-the-badge&logo=architecture&logoColor=white](https://img.shields.io/badge/Enterprise_Software_Architect-007ACC?style=for-the-badge&logo=architecture&logoColor=white)" alt="Architect" />
+  <a href="https://linkedin.com" target="_blank">
+    <img src="https://img.shields.io/badge/Enterprise_Software_Architect-007ACC?style=for-the-badge&logo=architecture&logoColor=white" alt="Architect" />
   </a>
   <a href="#tech-stack">
-    <img src="[https://img.shields.io/badge/Clean_Code_Purist-239120?style=for-the-badge&logo=clean-code&logoColor=white](https://img.shields.io/badge/Clean_Code_Purist-239120?style=for-the-badge&logo=clean-code&logoColor=white)" alt="Clean Code" />
+    <img src="https://img.shields.io/badge/Clean_Code_Purist-239120?style=for-the-badge&logo=clean-code&logoColor=white" alt="Clean Code" />
   </a>
   <a href="#preview-profile">
-    <img src="[https://img.shields.io/badge/AI_Powered-8A2BE2?style=for-the-badge&logo=openai&logoColor=white](https://img.shields.io/badge/AI_Powered-8A2BE2?style=for-the-badge&logo=openai&logoColor=white)" alt="AI Powered" />
+    <img src="https://img.shields.io/badge/AI_Powered-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" alt="AI Powered" />
   </a>
 </p>
 
@@ -24,10 +24,10 @@
 ***
 
 <p align="center">
-  <img src="[https://img.shields.io/badge/ENVIRONMENT-PRODUCTION-red?style=flat-square&logo=github](https://img.shields.io/badge/ENVIRONMENT-PRODUCTION-red?style=flat-square&logo=github)" alt="Production" />
-  <img src="[https://img.shields.io/badge/MAIN_FOCUS-ENTERPRISE_SOFTWARE-blueviolet?style=flat-square](https://img.shields.io/badge/MAIN_FOCUS-ENTERPRISE_SOFTWARE-blueviolet?style=flat-square)" alt="Focus" />
-  <img src="[https://img.shields.io/badge/UPTIME-100%25-brightgreen?style=flat-square](https://img.shields.io/badge/UPTIME-100%25-brightgreen?style=flat-square)" alt="Uptime" />
-  <img src="[https://img.shields.io/badge/LOCATION-COLOMBIA-orange?style=flat-square](https://img.shields.io/badge/LOCATION-COLOMBIA-orange?style=flat-square)" alt="Location" />
+  <img src="https://img.shields.io/badge/ENVIRONMENT-PRODUCTION-red?style=flat-square&logo=github" alt="Production" />
+  <img src="https://img.shields.io/badge/MAIN_FOCUS-ENTERPRISE_SOFTWARE-blueviolet?style=flat-square" alt="Focus" />
+  <img src="https://img.shields.io/badge/UPTIME-100%25-brightgreen?style=flat-square" alt="Uptime" />
+  <img src="https://img.shields.io/badge/LOCATION-COLOMBIA-orange?style=flat-square" alt="Location" />
 </p>
 
 </div>
