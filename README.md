@@ -4,16 +4,32 @@
 ### 📑 ─── ❖ ── ⚙️ FULL STACK DEVELOPER ⚙️ ── ❖ ─── 📑
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Enterprise_Software_Architect-007ACC?style=for-the-badge&logo=architecture&logoColor=white" />
-  <img src="https://img.shields.io/badge/Clean_Code_Purist-239120?style=for-the-badge&logo=clean-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI_Powered-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" />
+  <a href="https://linkedin.com" target="_blank">
+    <img src="https://img.shields.io/badge/Enterprise_Software_Architect-007ACC?style=for-the-badge&logo=architecture&logoColor=white" alt="Architect" />
+  </a>
+  <a href="#-tech-stack--complemento-tecnico">
+    <img src="https://img.shields.io/badge/Clean_Code_Purist-239120?style=for-the-badge&logo=clean-code&logoColor=white" alt="Clean Code" />
+  </a>
+  <a href="#-preview-profile--sobre-mi">
+    <img src="https://img.shields.io/badge/AI_Powered-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" alt="AI Powered" />
+  </a>
 </p>
 
 ***
 
+### ⚡ TERMINAL HOST ACTIVATED · SYSTEM STATUS: ONLINE
+
 *«Transformando lógica abstracta y requerimientos corporativos de alta complejidad en ecosistemas digitales estables, optimizados y con arquitecturas de software empresarial de alto rendimiento.»*
 
 ***
+
+<!-- PANELES DE CONTROL ESTILO INTERFAZ CYBERPUNK -->
+<p align="center">
+  <img src="https://img.shields.io/badge/ENVIRONMENT-PRODUCTION-red?style=flat-square&logo=github" alt="Production" />
+  <img src="https://img.shields.io/badge/MAIN_FOCUS-ENTERPRISE_SOFTWARE-blueviolet?style=flat-square" alt="Focus" />
+  <img src="https://img.shields.io/badge/UPTIME-100%25-brightgreen?style=flat-square" alt="Uptime" />
+  <img src="https://img.shields.io/badge/LOCATION-COLOMBIA-orange?style=flat-square" alt="Location" />
+</p>
 
 </div>
 
@@ -33,24 +49,51 @@
 └────────────────────────────────────────────────────────────────────────────────────────┘
 </samp>
 
+### 🛰️ DESCRIPCIÓN DE OPERACIONES LOGÍSTICAS
+Desarrollador Full Stack enfocado en la ingeniería de plataformas corporativas de alto impacto. Actualmente balanceo la formación académica avanzada con el despliegue de soluciones arquitectónicas reales para entornos de software de nivel empresarial, asegurando consistencia, seguridad criptográfica y optimización de datos relacionales concurrentes.
+
 ***
 
-## 📊 GITHUB METRICS & ANALYTICS
+## 📊 GITHUB METRICS // ESTADÍSTICAS DEL SISTEMA
 
 <div align="center">
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=LisandroRueda&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
-  <img width="48%" src="https://github-profile-trophy.vercel.app/?username=LisandroRueda&theme=tokyonight&column=3&margin-w=15" alt="GitHub Trophies" />
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td width="49%" valign="top">
+        <img width="100%" src="https://github-readme-stats.vercel.app/api?username=LisandroRueda&show_icons=true&theme=tokyonight&locale=es&hide_border=false&include_all_commits=true&count_private=true" alt="Lisandro's GitHub Stats" />
+      </td>
+      <td width="2%"></td>
+      <td width="49%" valign="top">
+        <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LisandroRueda&layout=compact&theme=tokyonight&locale=es&hide_border=false&langs_count=6" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+  <br />
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td width="100%">
+        <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=LisandroRueda&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ***
 
-## 🛠️ 🟪 TECNOLOGÍAS CONOCIDAS // TECH STACK
+## 🛠️ 🟪 TECH_STACK // COMPLEMENTO TÉCNICO
+
+### 🌐 MATRIZ DE COMPONENTES VISUALES Y LENGUAJES
 
 <div align="center">
 
-| FRONTEND CORE | BACKEND & DATA | INFRAESTRUCTURA & HERRAMIENTAS |
-| :---: | :---: | :---: |
-| <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /><br><img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" /><br><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> | <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /><br><img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" /><br><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> | <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /><br><img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" /><br><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> |
+| CATEGORÍA | ECOSISTEMA DE TECNOLOGÍAS RENDERIZADAS | NIVEL DE DOMINIO |
+| :--- | :--- | :---: |
+| **Frontend Core** | <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" /> | `AVANZADO` |
+| **Frontend Occasional** | <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" /> | `INTERMEDIO` |
+| **Backend Runtime** | <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" /> | `AVANZADO` |
+| **Persistence & Data** | <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=flat-square&logo=sequelize&logoColor=white" /> | `ESPECIALIDAD` |
+| **Legacy & Scripting** | <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" /> <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" /> | `BÁSICO` |
+| **Tools & DevOps** | <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" /> | `INTERMEDIO` |
 
 </div>
 
@@ -66,19 +109,10 @@ const Frontend = {
   frameworks: ["React.js", "Vue.js"],
   languages:  ["JavaScript", "HTML5", "CSS3"],
   interface:  "Component-Driven / Clean UI",
-  status:     "Full-Performance"
+  status:     "Full-Performance",
+  features: {
+    stateManagement: "Hooks / Context API",
+    styling: "CSS Modules / Tailwind",
+    bundlers: ["Vite", "Webpack"]
+  }
 };
-🟢 BACKEND & DATA RUNTIME
-JavaScript
-const Backend = {
-  runtime:   "Node.js (Express)",
-  database:  "MySQL (Relational)",
-  legacy:    ["PHP", "Laravel"],
-  patterns:  "MVC / RESTful APIs"
-};
-📦 🟦 PORTFOLIO_SHOWCASE // SISTEMAS CORPORATIVOS
-🤝 🟨 NETWORK_CHANNELS // CONECTEMOS
-🚀 ¿Buscas un perfil Full Stack proactivo, enfocado en calidad y habituado a retos reales?
-
-🌐 ─── ¡HAZ CLIC AQUÍ PARA ACCEDER A MI LINKEDIN PROFESIONAL! ───
-«Hablemos de ingeniería de software, integraciones de sistemas y optimización de plataformas corporativas.»
