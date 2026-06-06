@@ -34,24 +34,24 @@
 
 ## PREVIEW_PROFILE // SOBRE MÍ
 
-> ### 🎓 ESTUDIANTE ACTIVO | FESC (San José de Cúcuta)
+> ### ESTUDIANTE ACTIVO | FESC (San José de Cúcuta)
 > Conectando la vanguardia académica con los flujos de trabajo de nivel empresarial.
 >
-> ### 💼 DESARROLLO CORE END-TO-END
+> ### DESARROLLO CORE END-TO-END
 > * **Frontend Core Architecture:** Diseño y estructuración de interfaces altamente interactivas, fluidas, modulares y escalables.
 > * **Backend & Database Infrastructure:** Modelado de bases de datos relacionales robustas y optimización de servicios concurrentes.
 >
-> ### 🤖 INGENIERÍA DE PRODUCTIVIDAD AVANZADA
+> ### INGENIERÍA DE PRODUCTIVIDAD AVANZADA
 > Implementación activa de IA como acelerador de desarrollo en testing automatizado, generación de simulaciones y refactorización de lógica compleja.
 
-### 🛰️ DESCRIPCIÓN DE OPERACIONES LOGÍSTICAS
+### DESCRIPCIÓN DE OPERACIONES LOGÍSTICAS
 Desarrollador Full Stack enfocado en la ingeniería de plataformas corporativas de alto impacto. Actualmente balanceo la formación académica avanzada con el despliegue de soluciones arquitectónicas reales para entornos de software de nivel empresarial, asegurando consistencia, seguridad criptográfica y optimización de datos relacionales concurrentes mediante flujos de trabajo asíncronos y desacoplados.
 
 ---
 
 ## GITHUB METRICS // PANEL DE CONTROL DEL NÚCLEO
 
-### 🟢 METRIC_CONSTRAINTS // OPERATIONAL PIPELINE
+### METRIC_CONSTRAINTS // OPERATIONAL PIPELINE
 
 ```diff
 + [STATUS]       Active Environment Established
