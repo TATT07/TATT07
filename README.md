@@ -54,43 +54,69 @@ Desarrollador Full Stack enfocado en la ingeniería de plataformas corporativas 
 
 ---
 
-## 📊 GITHUB METRICS // ESTADÍSTICAS LOGÍSTICAS DEL CORE
+## 📊 GITHUB METRICS // PANEL DE CONTROL DEL NÚCLEO
 
-<table width="100%" border="0" cellspacing="0" cellpadding="10">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tr>
-    <td width="100%" bgcolor="#0f0f1a" align="left">
-      <code><b>[SYS_STATUS]</b>: Escaneando repositorios activos...</code><br />
-      <code><b>[SYS_INFO]</b>: Despliegues de backend concurrentes validados en producción.</code><br />
-      <code><b>[CORE_LOAD]</b>: Integración de servicios mediante contenedores Docker activa.</code>
+    <td bgcolor="#12131a" style="border: 1px solid #bd93f9; border-radius: 8px 8px 0px 0px; padding: 12px;">
+      <code><b>[⚡] DISPOSITIVO CENTRAL:</b> OPERACIONAL // RESALTADO DE FLUJO INTEGRADO</code>
+    </td>
+  </tr>
+  <tr>
+    <td bgcolor="#090a0f" style="border-left: 1px solid #bd93f9; border-right: 1px solid #bd93f9; border-bottom: 1px solid #bd93f9; padding: 20px;">
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tr>
+          <!-- Columna Izquierda: Métricas de Arquitectura -->
+          <td width="48%" valign="top">
+            <p align="left"><font color="#50fa7b"><b>⚙️ METRIC_CONSTRAINTS // PIPELINE</b></font></p>
+            <hr size="1" color="#30363d" />
+            <table width="100%" border="0" cellspacing="4" cellpadding="6">
+              <tr>
+                <td bgcolor="#161925" style="border-radius: 4px;"><code>📂 <b>Status:</b> Active Environment</code></td>
+              </tr>
+              <tr>
+                <td bgcolor="#161925" style="border-radius: 4px;"><code>🧬 <b>Architecture:</b> Decoupled MVC Flow</code></td>
+              </tr>
+              <tr>
+                <td bgcolor="#161925" style="border-radius: 4px;"><code>🚀 <b>Core Engine:</b> Node.js Rest Services</code></td>
+              </tr>
+              <tr>
+                <td bgcolor="#161925" style="border-radius: 4px;"><code>🗃️ <b>Database Cluster:</b> MySQL Relational</code></td>
+              </tr>
+              <tr>
+                <td bgcolor="#161925" style="border-radius: 4px;"><code>🤖 <b>Automation:</b> AI Prompt Injections</code></td>
+              </tr>
+            </table>
+          </td>
+          <!-- Espaciador -->
+          <td width="4%"></td>
+          <!-- Columna Derecha: Estado de los Subsistemas -->
+          <td width="48%" valign="top">
+            <p align="left"><font color="#ff79c6"><b>🔮 SUBSYSTEM_LOAD // DIAGNOSTIC</b></font></p>
+            <hr size="1" color="#30363d" />
+            <table width="100%" border="0" cellspacing="4" cellpadding="6">
+              <tr>
+                <td bgcolor="#161925" style="border-radius: 4px;"><code>⚛️ Frontend Main Core ........ [ 85% ]</code></td>
+              </tr>
+              <tr>
+                <td bgcolor="#161925" style="border-radius: 4px;"><code>🟢 Backend Relational Data ... [ 90% ]</code></td>
+              </tr>
+              <tr>
+                <td bgcolor="#161925" style="border-radius: 4px;"><code>🧩 Component Isolation ....... [ 95% ]</code></td>
+              </tr>
+              <tr>
+                <td bgcolor="#161925" style="border-radius: 4px;"><code>⚡ Asynchronous Routines ..... [ 80% ]</code></td>
+              </tr>
+              <tr>
+                <td bgcolor="#161925" style="border-radius: 4px;"><code>🤖 Prompt Refactor Engine ... [ 100% ]</code></td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
     </td>
   </tr>
 </table>
-
-<br />
-
-<div align="center">
-  <table width="100%" border="0" cellspacing="0" cellpadding="0">
-    <tr>
-      <td width="48%" valign="top" bgcolor="#0d1117" style="border: 1px solid #30363d; border-radius: 6px; padding: 15px;">
-        <h4 align="center">📈 CORE CONTRIBUTION METRICS</h4>
-        <p align="left"><code>■ Activity Status: Operational</code></p>
-        <p align="left"><code>■ Architecture Pipeline: Clean MVC Flow</code></p>
-        <p align="left"><code>■ Framework Engine: Node.js + React Ecosystem</code></p>
-        <p align="left"><code>■ Database Cluster: MySQL Enterprise Model</code></p>
-        <p align="left"><code>■ Productivity Multiplier: AI Scripting Injection</code></p>
-      </td>
-      <td width="4%"></td>
-      <td width="48%" valign="top" bgcolor="#0d1117" style="border: 1px solid #30363d; border-radius: 6px; padding: 15px;">
-        <h4 align="center">📊 LIVE SUBSYSTEM ENGINE</h4>
-        <p align="left"><code>» Frontend Main Core .......... [ 85% ]</code></p>
-        <p align="left"><code>» Backend Relational Data ..... [ 90% ]</code></p>
-        <p align="left"><code>» Component Isolation ......... [ 95% ]</code></p>
-        <p align="left"><code>» Asynchronous Routines ....... [ 80% ]</code></p>
-        <p align="left"><code>» Prompt Automation Refactor .. [ 100% ]</code></p>
-      </td>
-    </tr>
-  </table>
-</div>
 
 ---
 
