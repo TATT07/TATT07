@@ -19,11 +19,11 @@
 
 <samp>
 ┌────────────────────────────────────────────────────────────────────────────────────────┐
-│ 🎓 ESTUDIANTE ACTIVE | FESC (San José de Cúcuta)                                      │
+│ 🎓 ESTUDIANTE ACTIVO | FESC (San José de Cúcuta)                                       │
 │    • Conectando la vanguardia académica con los flujos de trabajo de nivel empresarial.│
 ├────────────────────────────────────────────────────────────────────────────────────────┤
 │ 💼 DESARROLLO CORE END-TO-END                                                          │
-│    • Arquitectura de interfaces altamente interactivas, fluidas y escalables (Front). │
+│    • Arquitectura de interfaces altamente interactivas, fluidas y escalables (Front).  │
 │    • Modelado de bases de datos relacionales robustas y servicios optimizados (Back).  │
 ├────────────────────────────────────────────────────────────────────────────────────────┤
 │ 🤖 INGENIERÍA DE PRODUCTIVIDAD AVANZADA                                                │
@@ -47,3 +47,17 @@ const Frontend = {
   interface:  "Component-Driven / Clean UI",
   status:     "Full-Performance"
 };
+🟢 BACKEND & DATA
+Fragmento de código
+const Backend = {
+  runtime:   "Node.js (Express)",
+  database:  "MySQL (Relational)",
+  legacy:    ["PHP", "Laravel"],
+  patterns:  "MVC / RESTful APIs"
+};
+📦 🟦 PORTFOLIO_SHOWCASE // SISTEMAS CORPORATIVOS
+🤝 🟨 NETWORK_CHANNELS // CONECTEMOS
+🚀 ¿Buscas un perfil Full Stack proactivo, enfocado en calidad y habituado a retos reales?
+
+🌐 ─── ¡HAZ CLIC AQUÍ PARA ACCEDER A MI LINKEDIN PROFESIONAL! ───
+«Hablemos de ingeniería de software, integraciones de sistemas y optimización de plataformas corporativas.»
