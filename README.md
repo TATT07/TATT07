@@ -4,7 +4,9 @@
 ### 📑 ─── ❖ ── ⚙️ FULL STACK DEVELOPER ⚙️ ── ❖ ─── 📑
 
 <p align="center">
-  <code><b>💎 ENTERPRISE SOFTWARE ARCHITECT</b></code> • <code><b>⚡ CLEAN CODE PURIST</b></code> • <code><b>🤖 AI POWERED</b></code>
+  <img src="https://img.shields.io/badge/Enterprise_Software_Architect-007ACC?style=for-the-badge&logo=architecture&logoColor=white" />
+  <img src="https://img.shields.io/badge/Clean_Code_Purist-239120?style=for-the-badge&logo=clean-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI_Powered-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
 
 ***
@@ -17,19 +19,17 @@
 
 ## 👤 🟩 PREVIEW_PROFILE // SOBRE MÍ
 
-<samp>
-┌────────────────────────────────────────────────────────────────────────────────────────┐
-│ 🎓 ESTUDIANTE ACTIVO | FESC (San José de Cúcuta)                                       │
-│    • Conectando la vanguardia académica con los flujos de trabajo de nivel empresarial.│
-├────────────────────────────────────────────────────────────────────────────────────────┤
-│ 💼 DESARROLLO CORE END-TO-END                                                          │
-│    • Arquitectura de interfaces altamente interactivas, fluidas y escalables (Front).  │
-│    • Modelado de bases de datos relacionales robustas y servicios optimizados (Back).  │
-├────────────────────────────────────────────────────────────────────────────────────────┤
-│ 🤖 INGENIERÍA DE PRODUCTIVIDAD AVANZADA                                                │
-│    • Implementación activa de IA como acelerador de desarrollo en testing y refactor.  │
-└────────────────────────────────────────────────────────────────────────────────────────┘
-</samp>
+<blockquote>
+  <h3>🎓 ESTUDIANTE ACTIVO | FESC (San José de Cúcuta)</h3>
+  <p>• Conectando la vanguardia académica con los flujos de trabajo de nivel empresarial.</p>
+  
+  <h3>💼 DESARROLLO CORE END-TO-END</h3>
+  <p>• <b>Frontend:</b> Arquitectura de interfaces altamente interactivas, fluidas y escalables.</p>
+  <p>• <b>Backend:</b> Modelado de bases de datos relacionales robustas y servicios optimizados.</p>
+  
+  <h3>🤖 INGENIERÍA DE PRODUCTIVIDAD AVANZADA</h3>
+  <p>• Implementación activa de IA como acelerador de desarrollo en testing y refactor.</p>
+</blockquote>
 
 ***
 
@@ -37,27 +37,29 @@
 
 <table align="center" width="100%">
 <tr>
-<td width="50%" valign="top" bgcolor="#0f0f1a">
+<td width="50%" valign="top" bgcolor="#0d0e15">
 
 ### ⚛️ FRONTEND CORE
+<p align="left">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" />
+</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+</p>
+
 ```javascript
 const Frontend = {
-  frameworks: ["React.js", "Vue.js"],
-  languages:  ["JavaScript", "HTML5", "CSS3"],
-  interface:  "Component-Driven / Clean UI",
-  status:     "Full-Performance"
+  interface: "Component-Driven",
+  UI_Style:  "Clean & Professional",
+  status:    "Full-Performance"
 };
 🟢 BACKEND & DATA
 Fragmento de código
 const Backend = {
-  runtime:   "Node.js (Express)",
-  database:  "MySQL (Relational)",
-  legacy:    ["PHP", "Laravel"],
-  patterns:  "MVC / RESTful APIs"
+  runtime:  "Node.js (Express)",
+  database: "MySQL (Relational)",
+  patterns: "MVC / RESTful APIs"
 };
-📦 🟦 PORTFOLIO_SHOWCASE // SISTEMAS CORPORATIVOS
-🤝 🟨 NETWORK_CHANNELS // CONECTEMOS
-🚀 ¿Buscas un perfil Full Stack proactivo, enfocado en calidad y habituado a retos reales?
-
-🌐 ─── ¡HAZ CLIC AQUÍ PARA ACCEDER A MI LINKEDIN PROFESIONAL! ───
-«Hablemos de ingeniería de software, integraciones de sistemas y optimización de plataformas corporativas.»
