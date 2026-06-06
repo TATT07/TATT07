@@ -1,24 +1,19 @@
 <div align="center">
 
-# 🔮 `LISANDRO RUEDA`
+# 🔮 <code>LISANDRO RUEDA</code>
 ### 📑 ─── ❖ ── ⚙️ FULL STACK DEVELOPER ⚙️ ── ❖ ─── 📑
 
 <p align="center">
-  <a href="https://linkedin.com"><img src="https://img.shields.io/badge/Enterprise_Software_Architect-007ACC?style=for-the-badge&logo=architecture&logoColor=white" /></a>
-  <a href="#-tech-stack--complemento-t%C3%A9cnico"><img src="https://img.shields.io/badge/Clean_Code_Purist-239120?style=for-the-badge&logo=clean-code&logoColor=white" /></a>
-  <a href="#-previewprofile--sobre-m%C3%AD"><img src="https://img.shields.io/badge/AI_Powered-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/Enterprise_Software_Architect-007ACC?style=for-the-badge&logo=architecture&logoColor=white" />
+  <img src="https://img.shields.io/badge/Clean_Code_Purist-239120?style=for-the-badge&logo=clean-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI_Powered-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
+
+***
 
 *«Transformando lógica abstracta y requerimientos corporativos de alta complejidad en ecosistemas digitales estables, optimizados y con arquitecturas de software empresarial de alto rendimiento.»*
 
----
-
-<!-- CONTADORES Y BOTONES DE SOPORTE SUPERIORES STYLE UNCONVENTIONAL -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Invítame_un_Cafecito-☕-purple?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Convidame_un_Matecito-🧉-green?style=for-the-badge" />
-  <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn_Profile-🌐-0077B5?style=for-the-badge" /></a>
-</p>
+***
 
 </div>
 
@@ -38,48 +33,26 @@
 └────────────────────────────────────────────────────────────────────────────────────────┘
 </samp>
 
----
+***
 
 ## 📊 GITHUB METRICS & ANALYTICS
 
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" align="center" bgcolor="#0d1117">
-      <!-- Tarjeta de Estadísticas de GitHub en Modo Oscuro -->
-      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=your-github-username-here&show_icons=true&theme=tokyonight&locale=es&hide_border=false" alt="Lisandro Rueda's GitHub Stats" />
-    </td>
-    <td width="50%" align="center" bgcolor="#0d1117">
-      <!-- Lenguajes más usados -->
-      <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username-here&layout=compact&theme=tokyonight&locale=es&hide_border=false" alt="Most Used Languages" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center" bgcolor="#0d1117">
-      <!-- Racha de contribuciones -->
-      <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username-here&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=LisandroRueda&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+  <img width="48%" src="https://github-profile-trophy.vercel.app/?username=LisandroRueda&theme=tokyonight&column=3&margin-w=15" alt="GitHub Trophies" />
+</div>
 
----
+***
 
 ## 🛠️ 🟪 TECNOLOGÍAS CONOCIDAS // TECH STACK
 
-<p align="left">
-  <!-- FRONTEND STACK -->
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue" />
-  
-  <!-- BACKEND & DATABASES STACK -->
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node" />
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-</p>
+<div align="center">
+
+| FRONTEND CORE | BACKEND & DATA | INFRAESTRUCTURA & HERRAMIENTAS |
+| :---: | :---: | :---: |
+| <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /><br><img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" /><br><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> | <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /><br><img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" /><br><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> | <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /><br><img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" /><br><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> |
+
+</div>
 
 ### 🖥️ CONFIGURACIONES DE ENTORNO ACTIVO
 
@@ -96,7 +69,7 @@ const Frontend = {
   status:     "Full-Performance"
 };
 🟢 BACKEND & DATA RUNTIME
-Fragmento de código
+JavaScript
 const Backend = {
   runtime:   "Node.js (Express)",
   database:  "MySQL (Relational)",
