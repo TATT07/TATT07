@@ -1,54 +1,90 @@
 <div align="center">
 
 # 🔮 LISANDRO RUEDA
-### 🚀 FULL STACK DEVELOPER | REACT & NODE.JS
+### 🌐 FULL STACK DEVELOPER
 
-`✦ Software Empresarial` &nbsp;•&nbsp; `✦ Código Limpio` &nbsp;•&nbsp; `✦ Optimización con IA`
+<!-- Subtítulo con insignias de especialidad -->
+🚀 **`SOFTWARE EMPRESARIAL`** &nbsp;|&nbsp; ⚡ **`CÓDIGO LIMPIO`** &nbsp;|&nbsp; 🤖 **`IA PRODUCTIVITY`**
 
-*Transformando arquitecturas complejas en aplicaciones web y móviles corporativas robustas, optimizadas y escalables.*
+*Transformando requerimientos corporativos complejos en arquitecturas de software robustas, optimizadas y escalables.*
 
 </div>
 
 ---
 
-### 👤 Sobre Mí
-
-- 🎓 **Educación:** Estudiante Activo en la **FESC** (San José de Cúcuta), fusionando las mejores prácticas académicas con los requerimientos técnicos del mundo real.
-- 💼 **Experiencia:** Desarrollador Full Stack especializado en la construcción, despliegue y optimización de plataformas de gestión y software empresarial (End-to-End).
-- 🤖 **Productividad Avanzada:** Enfoque centrado en código limpio, estructurado y metodologías ágiles asistidas por Inteligencia Artificial para acelerar entregas sin sacrificar calidad.
-- 🎯 **Enfoque Actual:** Perfeccionando habilidades de arquitectura de software, optimización de bases de datos y patrones de diseño modernos.
-
----
-
-### 🛠️ Tecnologías & Herramientas Core
+## 👤 Sobre Mí
 
 <table align="center" width="100%">
   <tr>
-    <td width="50%" align="center" bgcolor="#1a1a2e">
-      <br>
-      <h3><b>🎨 FRONTEND STACK</b></h3>
-      <kbd>⚛️ React</kbd> &nbsp; <kbd>🟢 Vue.js</kbd>
-      <br><br>
-      <kbd>💛 JavaScript</kbd> &nbsp; <kbd>🧡 HTML5 / CSS3</kbd>
-      <br><br>
+    <td width="65%" valign="top">
+      <ul>
+        <li>🎓 <b>Estudiante Activo en la FESC:</b> Fusionando las mejores prácticas académicas de San José de Cúcuta con los desafíos técnicos del ecosistema corporativo real.</li>
+        <li>💼 <b>Desarrollo End-to-End:</b> Construyendo tanto interfaces intuitivas de alto rendimiento (Frontend) como la lógica y bases de datos seguras detrás de ellas (Backend).</li>
+        <li>🤖 <b>Ingeniería Eficiente:</b> Especializado en mantener estándares de calidad empresarial utilizando Inteligencia Artificial como multiplicador de productividad.</li>
+      </ul>
     </td>
-    <td width="50%" align="center" bgcolor="#16161a">
+    <td width="35%" align="center" valign="middle">
       <br>
-      <h3><b>⚙️ BACKEND & DATA</b></h3>
-      <kbd>🟢 Node.js</kbd> &nbsp; <kbd>🐬 MySQL</kbd>
+      <code><b>STATUS:</b></code>
       <br><br>
-      <kbd>🐘 PHP</kbd> &nbsp; <kbd>🔴 Laravel</kbd>
-      <br><br>
+      <img src="https://shields.io" alt="Open to work" />
     </td>
   </tr>
 </table>
 
 ---
 
-### 🤝 Conectemos en redes
+## 🛠️ Tecnologías Core (Calcomanías Oficiales)
 
 <div align="center">
 
-## 🌐 [Visita mi Perfil Profesional en LinkedIn](https://linkedin.com)
+### **🎨 Frontend Ecosystem**
+![React](https://shields.io)
+![Vue.js](https://shields.io)
+![JavaScript](https://shields.io)
+![HTML5](https://shields.io)
+![CSS3](https://shields.io)
+
+<br>
+
+### **⚙️ Backend & Database Core**
+![Node.js](https://shields.io)
+![MySQL](https://shields.io)
+![PHP](https://shields.io)
+![Laravel](https://shields.io)
+![Git](https://shields.io)
+
+</div>
+
+---
+
+## 💼 Proyectos Destacados (Sistemas Empresariales)
+
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" bgcolor="#0d1117">
+      <h4><b>📦 ERP Core & Gestión Empresarial</b></h4>
+      <p>Sistema robusto para el control interno de operaciones corporativas desarrollado con arquitectura limpia.</p>
+      <code>Node.js</code> &bull; <code>React</code> &bull; <code>MySQL</code>
+    </td>
+    <td width="50%" bgcolor="#0d1117">
+      <h4><b>🎟️ Sistema de Control de Entradas</b></h4>
+      <p>Plataforma Full Stack optimizada para el registro automático y auditoría de accesos corporativos.</p>
+      <code>React</code> &bull; <code>Express</code> &bull; <code>MySQL</code>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🤝 Conectemos en Redes
+
+<div align="center">
+
+### **¡Hablemos de código y proyectos!**
+
+<a href="https://linkedin.com" target="_blank">
+  <img src="https://shields.io" alt="LinkedIn Logo Gigante" height="50" />
+</a>
 
 </div>
